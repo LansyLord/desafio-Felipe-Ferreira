@@ -36,8 +36,6 @@ function fazerPagamento(itens, perguntaDoPagamento){
     });
 }
 
-// console.log('\nOlá, seja bem vindo!\n');
-// console.log(cardapio);
-// fazerPedido("Faça seu pedido: ");
-const resultado = venda.calcularValorDaCompra('debito', ['cafe,2'])
-console.log(resultado);
+console.log('\nOlá, seja bem vindo!\n');
+console.log(cardapio);
+fazerPedido("Faça seu pedido: ");
